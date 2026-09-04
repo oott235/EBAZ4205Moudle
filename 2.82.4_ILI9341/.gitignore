@@ -1,0 +1,20 @@
+# Vivado / Vitis
+*.jou
+*.log
+*.wdb
+*.backup.jou
+*.backup.log
+.Xil/
+vivado*.backup.*
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+webtalk*
+*.dcp
+*.bit
+*.ltx
+# OS
+Thumbs.db
+.DS_Store
